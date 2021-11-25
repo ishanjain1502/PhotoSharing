@@ -1,4 +1,4 @@
-# MERN-File-Sharing-app
+# PhotoSharing-MERN app
 <h2>The MERN app is divided in 2 parts: </h2>
 <ul><li>Client Side</li> <li>Server Side</li> </ul>
 </br>
