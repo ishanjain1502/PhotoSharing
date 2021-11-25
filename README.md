@@ -7,7 +7,7 @@
 <p>To run the client side of the app you need to first install dependecies using node</p>
 
 ```
-cd Client/
+cd client/
 npm install
 ```
 <p>And to start the react app while you are in Client directory </p>
@@ -22,7 +22,7 @@ npm start
 <p> To run the server side of the program first you need to install dependencies </p>
 
 ```
-cd Server/
+cd server/
 npm install
 ```
 <p>And to start the express server while you are in Server directory </p>
